@@ -1,557 +1,395 @@
-<div align="center">
+# 👋 Hi, I'm Nimish Sharma
 
-# 🦋 BLACK-BUTTERFLY-CODES
+<h3 align="center">
+  🛡️ Cybersecurity Student • 💻 Developer • 🔐 Security Enthusiast
+</h3>
 
-### `Cybersecurity • Programming • Linux • Security Research`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Learning+Offensive+%26+Defensive+Security;Building+Projects+in+C+%26+Python;Exploring+Linux%2C+Networking+%26+Web+Security;Always+Learning+Something+New+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;C+%7C+Python+%7C+JavaScript+%7C+Ruby;Linux+%7C+Networking+%7C+Web+Security;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Secure" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Black-Butterfly-Codes&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars&style=for-the-badge&color=f59e0b" alt="Stars" />
+</p>
 
 ---
 
-<div align="center">
-
-## 🦋 `WHO AM I?`
-
-</div>
+## 🧠 About Me
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│              🦋 BLACK-BUTTERFLY-CODES                    │
-│                                                          │
-│                  CYBERSECURITY STUDENT                   │
-│                                                          │
-│     > Programming                                        │
-│     > Linux & Operating Systems                          │
-│     > Networking                                          │
-│     > Web Technologies                                    │
-│     > Ethical Hacking                                     │
-│     > Defensive Security                                  │
-│     > CTFs & Security Labs                                │
-│     > Practical Cybersecurity Projects                    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+                                                            
+│  👨‍💻 Cybersecurity Student                                    │
+│  🔐 Interested in Cybersecurity & Ethical Hacking            │
+│  🐧 Learning Linux & Security Tools                          │
+│  💻 Building projects with C & Python                        │
+│  🌐 Exploring Web Security & Networking                      │
+│  🚀 Turning ideas into practical projects                    │
+│  📚 Currently focused on learning, building & experimenting  │
+                                                              
+╰──────────────────────────────────────────────────────────────╯
+```
 
-I'm a Cybersecurity student interested in understanding how systems work, how they can be attacked, and most importantly, how they can be secured.
-
-My journey combines programming, Linux, networking, cybersecurity, and hands-on projects.
-
-🧠 What I'm Focused On
-🛡️ Cybersecurity
-💻 C, Python, JavaScript & Ruby
-🐧 Linux & Operating Systems
-🌐 Networking & Web Technologies
-🔐 Ethical Hacking & Security
-🧪 CTFs and Cybersecurity Labs
-🛠️ Practical Security Projects
-📚 Continuous Learning
-<div align="center">
-💡 Learn → Build → Break → Understand → Secure
-</div>
-🔭 CURRENTLY WORKING ON
-📡 TCS 324 — Bluetooth Security Project
-
-An ESP32-based cybersecurity project exploring Bluetooth and wireless communication concepts.
-
-🧩 Technologies & Concepts
-<div align="center"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" /> <img src="https://img.shields.io/badge/Wireless%20Security-7B2CBF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Embedded%20Systems-00A896?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=for-the-badge" /> </div>
-🔗 Project Repository
-<div align="center"> <a href="https://github.com/Black-Butterfly-Codes/TCS324-JAMMER-PROJECT-"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" /> </a> </div>
-🚀 FEATURED PROJECTS
-<div align="center">
-🔐 Password Generating System
-C-Based Password Manager & Generator
-</div>
-
-A menu-driven Password Manager / Password Generator written in C.
-
-✨ Features
-<div align="center">
-🔐 Feature	📌 Status
-🔑 Password Generation	✅
-📝 Manual Password Creation	✅
-💪 Password Strength Checking	✅
-🔎 Account Searching	✅
-✏️ Password Modification	✅
-🗑️ Password Deletion	✅
-🚫 Duplicate Account Prevention	✅
-🚫 Duplicate Password Detection	✅
-💾 File-Based Password Storage	✅
-</div>
-🛠️ Built With
-<div align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/File%20Handling-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Strings-7B2CBF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Randomization-00A896?style=for-the-badge" /> </div>
-🔗 Repository
-<div align="center"> <a href="https://github.com/Black-Butterfly-Codes/Password-generating-system"> <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black" /> </a> </div>
-🛡️ CYBERSECURITY JOURNEY
-<div align="center">
-🔐 Areas I'm Exploring
-<br> <img src="https://img.shields.io/badge/🐧%20Linux-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🌐%20Networking-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🔎%20Reconnaissance-111111?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🌐%20Web%20Security-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🔑%20Cryptography-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/💻%20Privilege%20Escalation-111111?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🛡️%20Defensive%20Security-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🧪%20CTFs-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🚀%20Security%20Projects-111111?style=for-the-badge" /> </div>
-💻 PROGRAMMING LANGUAGES
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,python,javascript,ruby" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C-Systems%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-Cybersecurity-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-Web%20Security-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Ruby-Scripting-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> </div>
-🛠️ TECHNOLOGIES & TOOLS
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,gcc,arduino,esp32" />
-
-<br><br>
-
-Git • GitHub • Linux • VS Code • GCC • Arduino • ESP32
-
-</div>
-📊 GITHUB STATISTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Black-Butterfly-Codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=BF00FF&text_color=FFFFFF" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Butterfly-Codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/> </div>
-📈 GITHUB ACTIVITY
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Black-Butterfly-Codes&bg_color=0D1117&color=00F7FF&line=BF00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
-🔥 CONTRIBUTION STREAK
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Black-Butterfly-Codes&theme=tokyon-night&hide_border=true&background=0D1117&ring=00F7FF&fire=BF00FF&currStreakLabel=00F7FF" /> </div>
-🏆 GITHUB TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Black-Butterfly-Codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" /> </div>
-📚 CURRENTLY LEARNING
-🐧 Linux
-Operating Systems
-      │
-      ├── Shell
-      ├── Permissions
-      ├── Processes
-      └── Networking
-🔐 Cybersecurity
-Cybersecurity
-      │
-      ├── Ethical Hacking
-      ├── Web Security
-      ├── CTFs
-      ├── Reconnaissance
-      └── Defensive Security
-💻 Programming
-Programming
-      │
-      ├── C
-      ├── Python
-      ├── JavaScript
-      ├── Ruby
-      └── Data Structures
-🧪 CYBERSECURITY ROADMAP
-<div align="center">
-                         🦋
-                  BLACK-BUTTERFLY-CODES
-                         │
-                         ▼
-                  ┌───────────────┐
-                  │ 💻 PROGRAMMING│
-                  └───────┬───────┘
-                          │
-                 ┌────────┴────────┐
-                 ▼                 ▼
-                C              Python
-                 │                 │
-                 └────────┬────────┘
-                          │
-                          ▼
-                   🐧 LINUX & OS
-                          │
-                          ▼
-                    🌐 NETWORKING
-                          │
-                          ▼
-                  🌐 WEB TECHNOLOGY
-                          │
-                          ▼
-              🔐 SECURITY FUNDAMENTALS
-                          │
-                 ┌────────┴────────┐
-                 ▼                 ▼
-          🕵️ OFFENSIVE        🛡️ DEFENSIVE
-             SECURITY            SECURITY
-                 │                 │
-                 ▼                 ▼
-              🧪 CTFs            🔎 SOC
-                 │                 │
-                 ▼                 ▼
-          🌐 WEB SECURITY     📊 LOG ANALYSIS
-                 │                 │
-                 └────────┬────────┘
-                          │
-                          ▼
-                  🚀 SECURITY PROJECTS
-                          │
-                          ▼
-                🛡️ CYBERSECURITY
-                   PROFESSIONAL
-</div>
-🎯 GOALS
-<div align="center">
-🎯 Goal	🚀 Mission
-🐧 Linux	Become highly comfortable with Linux
-💻 C	Strengthen C programming
-🐍 Python	Master Python for cybersecurity
-🌐 Networking	Learn networking deeply
-🔐 Security	Build strong cybersecurity fundamentals
-🕵️ Ethical Hacking	Learn offensive security
-🌐 Web Security	Master web security concepts
-🧪 CTFs	Complete more CTF challenges
-🛡️ Defensive Security	Learn defensive security
-☁️ Cloud Security	Explore Cloud Security
-🛠️ Projects	Build practical cybersecurity tools
-🚀 Open Source	Contribute to Open Source
-🏆 Portfolio	Build a strong cybersecurity portfolio
-</div>
-🧰 CYBERSECURITY PROJECTS I WANT TO BUILD
-<div align="center">
-                     🔐 PASSWORD STRENGTH CHECKER
-                                  │
-                                  ▼
-                       🌐 NETWORK / PORT SCANNER
-                                  │
-                                  ▼
-                            📊 LOG ANALYZER
-                                  │
-                                  ▼
-                       🔎 SECRET & API KEY DETECTOR
-                                  │
-                                  ▼
-                      🌐 WEB TECHNOLOGY DETECTOR
-                                  │
-                                  ▼
-                       🛡️ SECURITY MONITORING TOOLS
-                                  │
-                                  ▼
-                         🚀 ADVANCED PROJECTS
-</div>
-📊 GITHUB OVERVIEW
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Black-Butterfly-Codes&theme=tokyonight" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Black-Butterfly-Codes&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Black-Butterfly-Codes&theme=tokyonight" /> </div>
-🌐 CONNECT WITH ME
-<div align="center"> <a href="https://github.com/Black-Butterfly-Codes"> <img src="https://img.shields.io/badge/GitHub-Black--Butterfly--Codes-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-<br><br>
-
-<a href="https://github.com/Black-Butterfly-Codes"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" /> </a> </div>
-💭 DEVELOPER MINDSET
-<div align="center">
-🔐 Security is a mindset.
-💻 Code is a tool.
-🧠 Knowledge is the real power.
-<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=BF00FF&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Understand+%E2%80%A2+Secure" />
-
-<br><br>
-
-🦋 BLACK-BUTTERFLY-CODES
-
-Cybersecurity • Code • Curiosity • Continuous Learning
-
-<br> <img src="https://komarev.com/ghpvc/?username=Black-Butterfly-Codes&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" /> </div>
-<div align="center">
-⭐ If you find something interesting, explore the repositories!
-
-🦋 Learn • Build • Break • Understand • Secure 🦋
-
-</div> ```
-
-This is the complete file, so you can replace everything inside your current README.md with it. Your original project sections, learning areas, roadmap, goals, and cybersecurity-project plans are all retained.
-
-like give me everything at one place so i can copy
-
-Yep 😄 — you want ONE single copy-paste block, with absolutely everything together.
-
-Copy everything from ```markdown to the final ``` and paste it directly into your README.md:
-
-<div align="center">
-
-# 🦋 BLACK-BUTTERFLY-CODES
-
-### `Cybersecurity • Programming • Linux • Security Research`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;C+%7C+Python+%7C+JavaScript+%7C+Ruby;Linux+%7C+Networking+%7C+Web+Security;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Secure" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Black-Butterfly-Codes&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-
-</div>
+* 🔭 Currently working on **[TCS 324 Bluetooth Jammer](https://github.com/Black-Butterfly-Codes/TCS324-JAMMER-PROJECT-)**
+* 🌱 Currently learning **Cybersecurity, Linux, C, Python, Networking & Web Security**
+* 🛡️ Practicing cybersecurity through **TryHackMe & security projects**
+* 💻 Interested in **Ethical Hacking, System Security & Secure Programming**
+* 📫 Reach me at **[blackbutterflycodes@gmail.com](mailto:blackbutterflycodes@gmail.com)**
+* ⚡ Fun fact: **I learn by building things.**
 
 ---
 
-<div align="center">
+# 🛡️ Cybersecurity Journey
 
-## 🦋 `WHO AM I?`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Networking-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Security-EC4899?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│              🦋 BLACK-BUTTERFLY-CODES                    │
-│                                                          │
-│                  CYBERSECURITY STUDENT                   │
-│                                                          │
-│     > Programming                                        │
-│     > Linux & Operating Systems                          │
-│     > Networking                                          │
-│     > Web Technologies                                    │
-│     > Ethical Hacking                                     │
-│     > Defensive Security                                  │
-│     > CTFs & Security Labs                                │
-│     > Practical Cybersecurity Projects                    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+                    ┌───────────────────┐
+                    │   CYBERSECURITY   │
+                    └─────────┬─────────┘
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+          ▼                   ▼                   ▼
+      🐧 Linux           🌐 Networking       🌎 Web Security
+          │                   │                   │
+          ▼                   ▼                   ▼
+      🖥️ Systems          🔎 Recon            🔐 OWASP
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              │
+                              ▼
+                       🛡️ SECURITY
+                              │
+                              ▼
+                     🚀 BUILD • BREAK • LEARN
+```
 
-I'm a Cybersecurity student interested in understanding how systems work, how they can be attacked, and most importantly, how they can be secured.
+---
 
-My journey combines programming, Linux, networking, cybersecurity, and hands-on projects.
+# 🎯 Current Focus
 
-🧠 What I'm Focused On
-🛡️ Cybersecurity
-💻 C, Python, JavaScript & Ruby
-🐧 Linux & Operating Systems
-🌐 Networking & Web Technologies
-🔐 Ethical Hacking & Security
-🧪 CTFs and Cybersecurity Labs
-🛠️ Practical Security Projects
-📚 Continuous Learning
-<div align="center">
-💡 Learn → Build → Break → Understand → Secure
-</div>
-🔭 CURRENTLY WORKING ON
-📡 TCS 324 — Bluetooth Security Project
+<table>
+<tr>
+<td width="50%">
 
-An ESP32-based cybersecurity project exploring Bluetooth and wireless communication concepts.
+### 🔐 Cybersecurity
 
-🧩 Technologies & Concepts
-<div align="center"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" /> <img src="https://img.shields.io/badge/Wireless%20Security-7B2CBF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Embedded%20Systems-00A896?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=for-the-badge" /> </div>
-🔗 Project Repository
-<div align="center"> <a href="https://github.com/Black-Butterfly-Codes/TCS324-JAMMER-PROJECT-"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" /> </a> </div>
-🚀 FEATURED PROJECTS
-<div align="center">
-🔐 Password Generating System
-C-Based Password Manager & Generator
-</div>
+* Ethical Hacking
+* Linux Security
+* Network Security
+* Web Security
+* Cryptography
+* Vulnerability Research
+* Security Tools
 
-A menu-driven Password Manager / Password Generator written in C.
+</td>
 
-✨ Features
-<div align="center">
-🔐 Feature	📌 Status
-🔑 Password Generation	✅
-📝 Manual Password Creation	✅
-💪 Password Strength Checking	✅
-🔎 Account Searching	✅
-✏️ Password Modification	✅
-🗑️ Password Deletion	✅
-🚫 Duplicate Account Prevention	✅
-🚫 Duplicate Password Detection	✅
-💾 File-Based Password Storage	✅
-</div>
-🛠️ Built With
-<div align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/File%20Handling-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Strings-7B2CBF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Randomization-00A896?style=for-the-badge" /> </div>
-🔗 Repository
-<div align="center"> <a href="https://github.com/Black-Butterfly-Codes/Password-generating-system"> <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black" /> </a> </div>
-🛡️ CYBERSECURITY JOURNEY
-<div align="center">
-🔐 Areas I'm Exploring
-<br> <img src="https://img.shields.io/badge/🐧%20Linux-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🌐%20Networking-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🔎%20Reconnaissance-111111?style=for-the-badge" />
+<td width="50%">
 
-<br><br>
+### 💻 Programming
 
-<img src="https://img.shields.io/badge/🌐%20Web%20Security-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🔑%20Cryptography-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/💻%20Privilege%20Escalation-111111?style=for-the-badge" />
+* C
+* Python
+* JavaScript
+* Git & GitHub
+* Data Structures
+* Algorithms
+* Secure Programming
 
-<br><br>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/🛡️%20Defensive%20Security-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🧪%20CTFs-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/🚀%20Security%20Projects-111111?style=for-the-badge" /> </div>
-💻 PROGRAMMING LANGUAGES
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,python,javascript,ruby" />
+---
 
-<br><br>
+# 🧰 Languages & Tools
 
-<img src="https://img.shields.io/badge/C-Systems%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-Cybersecurity-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-Web%20Security-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Ruby-Scripting-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> </div>
-🛠️ TECHNOLOGIES & TOOLS
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,gcc,arduino,esp32" />
+### 👨‍💻 Programming Languages
 
-<br><br>
+<p align="left">
+  <a href="https://www.cprogramming.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  </a>
+</p>
 
-Git • GitHub • Linux • VS Code • GCC • Arduino • ESP32
+### 🖥️ Operating Systems & Development
 
-</div>
-📊 GITHUB STATISTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Black-Butterfly-Codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=BF00FF&text_color=FFFFFF" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Butterfly-Codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/> </div>
-📈 GITHUB ACTIVITY
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Black-Butterfly-Codes&bg_color=0D1117&color=00F7FF&line=BF00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
-🔥 CONTRIBUTION STREAK
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Black-Butterfly-Codes&theme=tokyon-night&hide_border=true&background=0D1117&ring=00F7FF&fire=BF00FF&currStreakLabel=00F7FF" /> </div>
-🏆 GITHUB TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Black-Butterfly-Codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" /> </div>
-📚 CURRENTLY LEARNING
-🐧 Linux
-Operating Systems
-      │
-      ├── Shell
-      ├── Permissions
-      ├── Processes
-      └── Networking
-🔐 Cybersecurity
-Cybersecurity
-      │
-      ├── Ethical Hacking
-      ├── Web Security
-      ├── CTFs
-      ├── Reconnaissance
-      └── Defensive Security
-💻 Programming
-Programming
-      │
-      ├── C
-      ├── Python
-      ├── JavaScript
-      ├── Ruby
-      └── Data Structures
-🧪 CYBERSECURITY ROADMAP
-<div align="center">
-                         🦋
-                  BLACK-BUTTERFLY-CODES
-                         │
-                         ▼
-                  ┌───────────────┐
-                  │ 💻 PROGRAMMING│
-                  └───────┬───────┘
-                          │
-                 ┌────────┴────────┐
-                 ▼                 ▼
-                C              Python
-                 │                 │
-                 └────────┬────────┘
-                          │
-                          ▼
-                   🐧 LINUX & OS
-                          │
-                          ▼
-                    🌐 NETWORKING
-                          │
-                          ▼
-                  🌐 WEB TECHNOLOGY
-                          │
-                          ▼
-              🔐 SECURITY FUNDAMENTALS
-                          │
-                 ┌────────┴────────┐
-                 ▼                 ▼
-          🕵️ OFFENSIVE        🛡️ DEFENSIVE
-             SECURITY            SECURITY
-                 │                 │
-                 ▼                 ▼
-              🧪 CTFs            🔎 SOC
-                 │                 │
-                 ▼                 ▼
-          🌐 WEB SECURITY     📊 LOG ANALYSIS
-                 │                 │
-                 └────────┬────────┘
-                          │
-                          ▼
-                  🚀 SECURITY PROJECTS
-                          │
-                          ▼
-                🛡️ CYBERSECURITY
-                   PROFESSIONAL
-</div>
-🎯 GOALS
-<div align="center">
-🎯 Goal	🚀 Mission
-🐧 Linux	Become highly comfortable with Linux
-💻 C	Strengthen C programming
-🐍 Python	Master Python for cybersecurity
-🌐 Networking	Learn networking deeply
-🔐 Security	Build strong cybersecurity fundamentals
-🕵️ Ethical Hacking	Learn offensive security
-🌐 Web Security	Master web security concepts
-🧪 CTFs	Complete more CTF challenges
-🛡️ Defensive Security	Learn defensive security
-☁️ Cloud Security	Explore Cloud Security
-🛠️ Projects	Build practical cybersecurity tools
-🚀 Open Source	Contribute to Open Source
-🏆 Portfolio	Build a strong cybersecurity portfolio
-</div>
-🧰 CYBERSECURITY PROJECTS I WANT TO BUILD
-<div align="center">
-                     🔐 PASSWORD STRENGTH CHECKER
-                                  │
-                                  ▼
-                       🌐 NETWORK / PORT SCANNER
-                                  │
-                                  ▼
-                            📊 LOG ANALYZER
-                                  │
-                                  ▼
-                       🔎 SECRET & API KEY DETECTOR
-                                  │
-                                  ▼
-                      🌐 WEB TECHNOLOGY DETECTOR
-                                  │
-                                  ▼
-                       🛡️ SECURITY MONITORING TOOLS
-                                  │
-                                  ▼
-                         🚀 ADVANCED PROJECTS
-</div>
-📊 GITHUB OVERVIEW
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Black-Butterfly-Codes&theme=tokyonight" width="95%"/>
+<p align="left">
+  <a href="https://www.linux.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
+  </a>
+</p>
 
-<br><br>
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Black-Butterfly-Codes&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Black-Butterfly-Codes&theme=tokyonight" /> </div>
-🌐 CONNECT WITH ME
-<div align="center"> <a href="https://github.com/Black-Butterfly-Codes"> <img src="https://img.shields.io/badge/GitHub-Black--Butterfly--Codes-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+# 📊 GitHub Analytics
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="180"/>
+</p>
 
-<a href="https://github.com/Black-Butterfly-Codes"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" /> </a> </div>
-💭 DEVELOPER MINDSET
-<div align="center">
-🔐 Security is a mindset.
-💻 Code is a tool.
-🧠 Knowledge is the real power.
-<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=BF00FF&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Understand+%E2%80%A2+Secure" />
+---
 
-<br><br>
+# 🔥 Contribution Streak
 
-🦋 BLACK-BUTTERFLY-CODES
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=udaysharmadev&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+</p>
 
-Cybersecurity • Code • Curiosity • Continuous Learning
+---
 
-<br> <img src="https://komarev.com/ghpvc/?username=Black-Butterfly-Codes&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" /> </div>
-<div align="center">
-⭐ If you find something interesting, explore the repositories!
+# 📈 Contribution Activity Graph
 
-🦋 Learn • Build • Break • Understand • Secure 🦋
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&bg_color=0d1117&color=00e5ff&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+</p>
 
-</div> ```
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+# 📌 GitHub Statistics
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repo-count/udaysharmadev?style=for-the-badge&label=TOTAL%20REPOSITORIES&color=00e5ff" />
+
+<img src="https://img.shields.io/github/stars/udaysharmadev?style=for-the-badge&label=STARS%20RECEIVED&color=f59e0b" />
+
+<img src="https://img.shields.io/github/followers/udaysharmadev?style=for-the-badge&label=FOLLOWERS&color=7c3aed" />
+
+<img src="https://komarev.com/ghpvc/?username=udaysharmadev&style=for-the-badge&label=PROFILE%20VIEWS&color=ec4899" />
+
+</p>
+
+---
+
+# 📅 Commit Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaysharmadev&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🔐 Password Manager
+
+A menu-driven password management project written in C.
+
+**Features**
+
+* 🔑 Password generation
+* 🛡️ Password strength checking
+* 🔎 Account searching
+* ✏️ Password modification
+* 🗑️ Password deletion
+* ♻️ Duplicate detection
+
+</td>
+
+<td width="50%">
+
+## 📡 TCS 324 Project
+
+A cybersecurity/electronics project involving ESP32 and Bluetooth-related experimentation.
+
+**Focus**
+
+* ⚡ ESP32
+* 📡 Wireless technology
+* 🔬 Hardware experimentation
+* 🛡️ Security research
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+
+<a href="https://github.com/Black-Butterfly-Codes/TCS324-JAMMER-PROJECT-">
+<img src="https://img.shields.io/badge/🔎%20VIEW%20TCS324%20PROJECT-00e5ff?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🧪 TryHackMe
+
+<p align="center">
+  <a href="https://tryhackme.com/p/blackbutterflycodes">
+    <img src="https://img.shields.io/badge/TryHackMe-blackbutterflycodes-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+
+<a href="https://tryhackme.com/p/blackbutterflycodes">
+<img src="https://img.shields.io/badge/⚔️%20VIEW%20MY%20TRYHACKME%20PROFILE-00F7FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+> 🎯 **Learning cybersecurity by solving practical challenges and labs.**
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/udaysharmadev/udaysharmadev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+# 🌌 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/udaysharmadev/udaysharmadev/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" />
+</p>
+
+---
+
+# 💡 My Learning Roadmap
+
+```text
+                     ┌──────────────────┐
+                     │   CYBERSECURITY  │
+                     └────────┬─────────┘
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+              ▼               ▼               ▼
+           🐧 Linux       🌐 Networking     💻 Coding
+              │               │               │
+              ▼               ▼               ▼
+          🛡️ Security       🔎 Recon        C / Python
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                              ▼
+                       🌎 Web Security
+                              │
+                              ▼
+                       🔐 Ethical Hacking
+                              │
+                              ▼
+                       🚀 Security Projects
+                              │
+                              ▼
+                       🧠 KEEP LEARNING
+```
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Networking-Security-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web-Security-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:[blackbutterflycodes@gmail.com](mailto:blackbutterflycodes@gmail.com)">
+<img src="https://img.shields.io/badge/Email-blackbutterflycodes%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_flamingo_0_0_">
+<img src="https://img.shields.io/badge/Instagram-_flamingo__0__0_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/blackbutterflycodes">
+<img src="https://img.shields.io/badge/TryHackMe-blackbutterflycodes-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Profile Philosophy
+
+<p align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+                                                    
+   "Build it. Break it. Understand it. Secure it."  
+                                                     
+                   🛡️  🔐  💻                       
+                                                     
+╚══════════════════════════════════════════════════════╝
+```
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c3aed,100:ec4899&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep securing. 🔐</i>
+</p>
