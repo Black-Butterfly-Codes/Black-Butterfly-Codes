@@ -162,19 +162,13 @@ An ESP32-based hardware/security project exploring wireless communication concep
 
 ### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,ruby&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=dark" alt="Programming Languages"/>
 
 <br><br>
 
 ### 🐧 Systems & Development
 
 <img src="https://skillicons.dev/icons?i=linux,arduino,git,github,vscode&theme=dark" alt="Systems and Development"/>
-
-<br><br>
-
-### 🌐 Web & Databases
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,fastapi,mysql,postgres&theme=dark" alt="Web and Database Technologies"/>
 
 </div>
 
@@ -189,9 +183,9 @@ An ESP32-based hardware/security project exploring wireless communication concep
 |     Ethical Hacking    |  C Programming |   TryHackMe   |
 |    Network Security    |     Python     |      CTFs     |
 |     Linux Security     |   JavaScript   |  OverTheWire  |
-|      Web Security      |      Ruby      |  Hack The Box |
-| Vulnerability Research |      APIs      | Security Labs |
-|      Cryptography      |      Bash      |   Cyber Labs  |
+|      Web Security      |      APIs      |  Hack The Box |
+| Vulnerability Research |      Bash      | Security Labs |
+|      Cryptography      |       C++      |   Cyber Labs  |
 
 </div>
 
