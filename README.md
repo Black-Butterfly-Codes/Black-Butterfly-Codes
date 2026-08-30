@@ -155,71 +155,7 @@ An ESP32-based hardware/security project exploring wireless communication concep
 </table>
 
 ---
-# ⭐ FEATURED PROJECTS
 
-<table align="center">
-
-<tr>
-
-<!-- Password Generating System -->
-
-<td width="50%" valign="top">
-
-## 🔐 Password Generating System
-
-A menu-driven password management system written in **C**.
-
-### Features
-
-* 🔑 Password generation
-* 🛡️ Password strength checking
-* 🔍 Account searching
-* ✏️ Password modification
-* 🗑️ Password deletion
-* ♻️ Duplicate detection
-* 💾 File-based storage
-
-<br>
-
-<a href="https://github.com/Black-Butterfly-Codes/Password-generating-system">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6A0DAD?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Password Project"/>
-
-</a>
-
-</td>
-
-
-<!-- TCS 324 -->
-
-<td width="50%" valign="top">
-
-## 📡 TCS 324 Bluetooth Jammer
-
-An ESP32-based hardware/security project exploring wireless communication concepts.
-
-### Focus
-
-* 📡 ESP32
-* 🔬 Hardware experimentation
-* 🧠 Wireless concepts
-* 🛡️ Security research
-* ⚙️ Embedded systems
-
-<br>
-
-<a href="https://github.com/Black-Butterfly-Codes/TCS324-JAMMER-PROJECT-">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B1E3F?style=for-the-badge&logo=github&logoColor=FFE6F0" alt="Bluetooth Project"/>
-
-</a>
-
-</td>
-
-</tr>
-
-
-<tr>
 
 <!-- ETH Daddy -->
 
@@ -250,33 +186,7 @@ A **Web3 decentralized domain marketplace** inspired by traditional domain platf
 </td>
 
 
-<!-- Currently Building -->
 
-<td width="50%" valign="top">
-
-## 🚀 More Projects Coming
-
-Currently exploring and building projects in:
-
-### Focus
-
-* 🔐 Cybersecurity
-* ⛓️ Blockchain
-* 💻 C & C++
-* 🐍 Python
-* 🌐 Web Security
-* 🧪 Security Research
-* ⚙️ Systems Programming
-
-<br>
-
-<img src="https://img.shields.io/badge/CURRENTLY_BUILDING-8B1E3F?style=for-the-badge&logo=github&logoColor=FFE6F0" alt="Currently Building"/>
-
-</td>
-
-</tr>
-
-</table>
 
 # 🧰 TECH STACK
 
