@@ -48,15 +48,16 @@
 
 > **Turning curiosity into cybersecurity skills — one project, one line of code, and one challenge at a time.**
 
-🔭 **Currently working on:** [TCS 324 Bluetooth Jammer](https://github.com/Black-Butterfly-Codes/TCS324-JAMMER-PROJECT-)
+🔭 **Currently working on:** Smart Bite Takeaway — C++ Data Structures & Algorithms Project
 
-🌱 **Currently learning:** Cybersecurity • C • Python • Linux • Networking
+🌱 **Currently learning:** Cybersecurity • C • C++ • Python • Linux • Networking
 
 🧪 **Building:** Security-focused projects and programming projects
 
 🎯 **Goal:** Become a highly skilled cybersecurity professional
 
 ---
+
 
 # 🛡️ CYBERSECURITY LAB
 
