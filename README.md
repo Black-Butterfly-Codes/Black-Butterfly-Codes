@@ -105,7 +105,7 @@
 
 ## 🔐 Password Generating System
 
-A menu-driven password management system written in **C**.
+A menu-driven **password management system** written in **C**.
 
 ### Features
 
@@ -116,12 +116,13 @@ A menu-driven password management system written in **C**.
 * 🗑️ Password deletion
 * ♻️ Duplicate detection
 * 💾 File-based storage
+* 🧩 Modular functions
 
 <br>
 
 <a href="https://github.com/Black-Butterfly-Codes/Password-generating-system">
 
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6A0DAD?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Password Project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6A0DAD?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Password Generating System"/>
 
 </a>
 
@@ -131,21 +132,145 @@ A menu-driven password management system written in **C**.
 
 ## 📡 TCS 324 Bluetooth Jammer
 
-An ESP32-based hardware/security project exploring wireless communication concepts.
+An **ESP32-based hardware and cybersecurity project** exploring wireless communication and embedded systems.
 
 ### Focus
 
 * 📡 ESP32
 * 🔬 Hardware experimentation
-* 🧠 Wireless concepts
+* 🧠 Wireless communication
 * 🛡️ Security research
 * ⚙️ Embedded systems
+* 🔌 Circuit design
 
 <br>
 
 <a href="https://github.com/Black-Butterfly-Codes/TCS324-JAMMER-PROJECT-">
 
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B1E3F?style=for-the-badge&logo=github&logoColor=FFE6F0" alt="Bluetooth Project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B1E3F?style=for-the-badge&logo=github&logoColor=FFE6F0" alt="TCS 324 Bluetooth Jammer"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 ETH Daddy
+
+A **Web3 decentralized domain marketplace** inspired by traditional domain platforms like GoDaddy.
+
+### Features
+
+* ⛓️ Ethereum smart contracts
+* 📜 Solidity development
+* 🦊 MetaMask integration
+* 🔗 Ethers.js
+* ⚛️ React frontend
+* 💰 `.eth` domain purchasing
+* ⚒️ Hardhat local blockchain
+* 🧪 Smart contract testing
+
+<br>
+
+<a href="https://github.com/Black-Butterfly-Codes/ETH-Daddy">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6A0DAD?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="ETH Daddy"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛰️ God's Eye View
+
+A **real-time 3D situational awareness and geospatial visualization platform** combining multiple live and simulated data sources.
+
+### Features
+
+* 🌍 3D geospatial visualization
+* 🗺️ Interactive maps
+* 🏔️ Terrain visualization
+* ✈️ Flight tracking
+* 🚗 Traffic simulation
+* 🛰️ Satellite data
+* ⚛️ React + Vite
+* 🔌 API integrations
+
+<br>
+
+<a href="https://github.com/Black-Butterfly-Codes/gods-eye-view">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-4B0082?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="God's Eye View"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🍔 Smart Bite Takeaway
+
+A **C++ Data Structures and Algorithms project** for restaurant discovery, recommendations, and order-related operations.
+
+### Data Structures & Algorithms
+
+* 📋 Arrays
+* 🗺️ Graphs
+* 🧭 Dijkstra's algorithm
+* 🔑 Hash maps
+* 🔄 Queues
+* 🔗 Linked lists
+* 📚 Stacks
+* 🔍 Searching & sorting
+
+### Focus
+
+* 🍽️ Restaurant suggestions
+* 📍 Route calculation
+* ⚡ Data structure implementation
+* 🧠 Algorithmic problem solving
+
+<br>
+
+<a href="https://github.com/Black-Butterfly-Codes">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6A0DAD?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Smart Bite Takeaway"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧑‍💻 More Projects
+
+More development, cybersecurity, programming, and academic projects are available on my GitHub profile.
+
+### Areas
+
+* 🔐 Cybersecurity
+* 💻 Programming
+* 🌐 Web Development
+* ⛓️ Blockchain & Web3
+* 🧠 Data Structures & Algorithms
+* ⚙️ Embedded Systems
+* 🐧 Linux & Automation
+* 🛡️ Security Research
+
+<br>
+
+<a href="https://github.com/Black-Butterfly-Codes">
+
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-8B1E3F?style=for-the-badge&logo=github&logoColor=FFE6F0" alt="All Projects"/>
 
 </a>
 
@@ -156,34 +281,6 @@ An ESP32-based hardware/security project exploring wireless communication concep
 
 ---
 
-
-<!-- ETH Daddy -->
-
-<td width="50%" valign="top">
-
-## 🌐 ETH Daddy
-
-A **Web3 decentralized domain marketplace** inspired by traditional domain platforms like **GoDaddy**.
-
-### Features
-
-* ⛓️ Ethereum smart contracts
-* 📜 Solidity development
-* 🦊 MetaMask wallet integration
-* 🔗 Ethers.js blockchain interaction
-* ⚛️ React frontend
-* 💰 Purchase `.eth` domains
-* ⚒️ Hardhat local blockchain
-
-<br>
-
-<a href="https://github.com/Black-Butterfly-Codes/ETH-Daddy">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6A0DAD?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="ETH Daddy Project"/>
-
-</a>
-
-</td>
 
 
 
